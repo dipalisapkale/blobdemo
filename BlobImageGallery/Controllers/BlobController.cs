@@ -3,7 +3,7 @@ using BlobImageGallery.Services;
 
 namespace BlobImageGallery.Controllers
 {
-    public class BlobController : Controller
+    public class BlobController : Controller  
     {
         private readonly BlobService _blobService;
 
