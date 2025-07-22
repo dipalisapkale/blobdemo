@@ -1,1 +1,5 @@
 "appsettings.json" 
+/.vs/blobdemoapp/v17
+/BlobImageGallery/.vs/BlobImageGallery
+/BlobImageGallery/obj/Debug/net8.0
+/BlobImageGallery/BlobImageGallery.csproj.user
